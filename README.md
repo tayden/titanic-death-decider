@@ -1,4 +1,4 @@
-#titanic-random-forest
+#titanic-death-decider
 
 Predict the survival of Titanic passengers using a SVM model.
 
